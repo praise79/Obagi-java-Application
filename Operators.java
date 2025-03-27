@@ -18,7 +18,7 @@ public class Operators{
 		
 		//Relational Operator(>,<,>=,<=,==,!=)
 		boolean isLessThan = num1 < num2;
-		boolean isGreaterThan = num1 > num2;
+		boolean isGreaterThan = num1 > num2; 
 		boolean isGreaterThanOrEqualTo = num1 >= num2;
 		boolean isLessThanOrEqualTo = num1 <= num2;
 		boolean isEqualTo = num1 == num2;
